@@ -6,7 +6,7 @@
 Landing page criada durante a Next Level Week da Rocketseat. Com a excelente aulas do Mayk Brito, onde adicionei muito aprendizado e detalhes a minha carreira com HTML, CSS e JavaScript.
 
 ## 📁 Acesso ao projeto
-[Clique para Landing Page DoctorCare!](https://othon-doctorcare.netlify.app/)
+[Clique para Landing Page DoctorCare!](https://othon-doctorcare.netlify.app/)<br>
 [GitHUb DoctorCare!](https://github.com/othonsm/DoctorCare)
 
 ## 🛠️ Abrir e rodar o projeto
